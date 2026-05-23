@@ -1,7 +1,3 @@
-local disabled = true
-if disabled then
-  return {}
-end
 return {
   "mistricky/codesnap.nvim",
   build = "make",
